@@ -35,7 +35,7 @@ Here's an example file to create a gem from:
 
     =end
 
-    class ExampleGem
+    module ExampleGem
       # Do something
     end
 
