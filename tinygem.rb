@@ -1,10 +1,11 @@
 =begin
 executable: TinyGem.new(ARGV[0]).package
+description: TinyGem builds gems from a single source file.
 ---
 
 # TinyGem: A tiny gem build tool
 
-Version 1.0.0
+Version 1.0.1
 
 Home: https://github.com/gabrielg/tinygem
 
